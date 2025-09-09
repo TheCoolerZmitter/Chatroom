@@ -1,3 +1,8 @@
+## Client Server Chatroom ##
+
+A chatroom terminal application that can run up to 10 concurrent chatrooms, each with up to 10 users communicating with each other. Each user can select a
+ room or create a new room, choose their username, and are given a unique text color.
+
 To make the files in an Ubuntu Linux terminal, "make" must be installed ("sudo apt install make" or "sudo apt install build-essential"), then type "make".
 Alternatively, you can run the commands in the makefile manually.
 Once the files are made, enter "./main_server" to start the server program.
